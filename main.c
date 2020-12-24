@@ -5,11 +5,8 @@ int main() {
   {
     printf("%d\t",i);
     i++;
-   add();
+  
+   main();
   }  
  
-}
-int add()
-{
-  return main();
 }
